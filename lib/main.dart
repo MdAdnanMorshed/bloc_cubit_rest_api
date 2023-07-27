@@ -42,6 +42,6 @@ class _MyHomePageState extends State<MyHomePage> {
       appBar: AppBar(
         title: const Text('App Bar ')
       ),
-      body:  Text(''));
+      body:  Text(' Body '));
   }
 }
